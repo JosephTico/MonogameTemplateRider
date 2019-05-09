@@ -2,7 +2,7 @@
 
 As Rider (still) does not have an official way of setting up Monogame projects, I created this template to build upon.
 
-What's missing is Asset Pipeline support, as I don't use it. 
+~~What's missing is Asset Pipeline support, as I don't use it.~~ Not anymore!
 
 
 ##### To use the template:
@@ -13,3 +13,4 @@ What's missing is Asset Pipeline support, as I don't use it.
 
 ##### Credits:
 - Jesús González 
+- [Joseph Vargas](https://github.com/JosephTico/) for Pipeline support
