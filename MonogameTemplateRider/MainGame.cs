@@ -22,6 +22,8 @@ namespace MonoGameTemplateRider
         protected override void LoadContent()
         {
             spriteBatch = new SpriteBatch(GraphicsDevice);
+            
+            Content.RootDirectory = "Content";
         }
 
         protected override void UnloadContent()
